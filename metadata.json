@@ -1,0 +1,6 @@
+{
+  "name": "Pluma & Furia 3D",
+  "description": "Recreación 3D hiperrealista de física y demolición con resortera en Three.js con texturas PBR procedurales, físicas nativas y audio Web Audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
